@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "ym7gw8OjXKVgDQ/fyYiDePV7FN3kQGuzbKmcJmmCkJhriMkcjPiFgjGu1EcP0zunt7BHfso7jQdsriK/F/bhIA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TedrosTsegay\\Desktop\\CSS455\\Assignment1\\UploadData\\UploadData.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TedrosTsegay\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\TedrosTsegay\\.nuget\\packages\\amazon.lambda.s3events\\3.0.1\\amazon.lambda.s3events.3.0.1.nupkg.sha512",
+    "C:\\Users\\TedrosTsegay\\.nuget\\packages\\awssdk.core\\3.7.106.39\\awssdk.core.3.7.106.39.nupkg.sha512",
+    "C:\\Users\\TedrosTsegay\\.nuget\\packages\\awssdk.s3\\3.7.104.19\\awssdk.s3.3.7.104.19.nupkg.sha512",
+    "C:\\Users\\TedrosTsegay\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\TedrosTsegay\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
+    "C:\\Users\\TedrosTsegay\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

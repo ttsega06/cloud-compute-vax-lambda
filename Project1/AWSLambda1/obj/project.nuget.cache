@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "f6T/wyuyxcw0b19H5Y9rp1DU18wH0xEQBfjDP32cXVWFivWamb6ZflgoVI45PAUsxLAcwepT4EJZ9/4gr8+F8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TedrosTsegay\\Desktop\\CSS455\\Assignment1\\AWSLambda1\\AWSLambda1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TedrosTsegay\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\TedrosTsegay\\.nuget\\packages\\amazon.lambda.s3events\\3.0.0\\amazon.lambda.s3events.3.0.0.nupkg.sha512",
+    "C:\\Users\\TedrosTsegay\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.3.1\\amazon.lambda.serialization.systemtextjson.2.3.1.nupkg.sha512",
+    "C:\\Users\\TedrosTsegay\\.nuget\\packages\\awssdk.core\\3.7.106.24\\awssdk.core.3.7.106.24.nupkg.sha512",
+    "C:\\Users\\TedrosTsegay\\.nuget\\packages\\awssdk.s3\\3.7.104.2\\awssdk.s3.3.7.104.2.nupkg.sha512",
+    "C:\\Users\\TedrosTsegay\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\TedrosTsegay\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\TedrosTsegay\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
+    "C:\\Users\\TedrosTsegay\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\TedrosTsegay\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.16\\microsoft.netcore.app.crossgen2.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\TedrosTsegay\Desktop\CSS455\Assignment1\AWSLambda1\bin\Release\net6.0\publish\AWSLambda1.deps.json
+C:\Users\TedrosTsegay\Desktop\CSS455\Assignment1\AWSLambda1\bin\Release\net6.0\publish\AWSLambda1.runtimeconfig.json
+C:\Users\TedrosTsegay\Desktop\CSS455\Assignment1\AWSLambda1\bin\Release\net6.0\publish\AWSLambda1.pdb
+C:\Users\TedrosTsegay\Desktop\CSS455\Assignment1\AWSLambda1\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+C:\Users\TedrosTsegay\Desktop\CSS455\Assignment1\AWSLambda1\bin\Release\net6.0\publish\Amazon.Lambda.S3Events.dll
+C:\Users\TedrosTsegay\Desktop\CSS455\Assignment1\AWSLambda1\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\TedrosTsegay\Desktop\CSS455\Assignment1\AWSLambda1\bin\Release\net6.0\publish\AWSSDK.Core.dll
+C:\Users\TedrosTsegay\Desktop\CSS455\Assignment1\AWSLambda1\bin\Release\net6.0\publish\AWSSDK.S3.dll
+C:\Users\TedrosTsegay\Desktop\CSS455\Assignment1\AWSLambda1\bin\Release\net6.0\publish\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\TedrosTsegay\Desktop\CSS455\Assignment1\AWSLambda1\bin\Release\net6.0\publish\Newtonsoft.Json.dll
+C:\Users\TedrosTsegay\Desktop\CSS455\Assignment1\AWSLambda1\bin\Release\net6.0\publish\Npgsql.dll
+C:\Users\TedrosTsegay\Desktop\CSS455\Assignment1\AWSLambda1\bin\Release\net6.0\publish\AWSLambda1.dll
