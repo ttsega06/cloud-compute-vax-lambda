@@ -13,11 +13,11 @@ namespace SQSMessageProcessor
 {
     public class MessageProcessor : BackgroundService
     {
-        string _sourceQueueUrl = "https://sqs.us-east-1.amazonaws.com/744378481019/DownWordQueue";
-        string _destinationQueueUrl = "https://sqs.us-east-1.amazonaws.com/744378481019/UpWardQueue";
-        string accessKeyId = "AKIA22UDKHF52OY4FMNG";
+        string _sourceQueueUrl = "";
+        string _destinationQueueUrl = "";
+        string accessKeyId = "";
         string _insuranceDatabasePath = "";
-        string secretAccessKey = "xU3YvpgZLA38FXoB44nq0d4pEjZR8xqMcHXzlDfQ";
+        string secretAccessKey = "";
 
 
 

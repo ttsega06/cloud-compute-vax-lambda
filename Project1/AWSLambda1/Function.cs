@@ -24,10 +24,10 @@ namespace AWSLambda1
         // The connection string to the PostgreSQL database
         //private readonly string _connectionString = "Host=...;Username=...;Password=...;Database=...";
         private readonly string _connectionString =
-              "Host=database-1.caodvlrmlx03.eu-north-1.rds.amazonaws.com;" +
-              "Username=postgres;" +
-              "Password=postgres12;" +
-              "Database=postgres";
+              "Host=;" +
+              "Username=;" +
+              "Password=;" +
+              "Database=";
         // The constructor that Lambda will invoke.
         public Function()
         {

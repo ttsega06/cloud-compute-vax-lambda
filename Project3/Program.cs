@@ -25,8 +25,8 @@ namespace AWSLambda
             string bucketName = "cloud-hybrid-project2";
             string endpointURL = "https://s3.amazonaws.com";
             // Replace with the URL of your S3 endpoint
-            string accessKeyId = "AKIA22UDKHF52OY4FMNG";
-            string secretAccessKey = "xU3YvpgZLA38FXoB44nq0d4pEjZR8xqMcHXzlDfQ";
+            string accessKeyId = "";
+            string secretAccessKey = "";
             //upload the file
             try
             {
