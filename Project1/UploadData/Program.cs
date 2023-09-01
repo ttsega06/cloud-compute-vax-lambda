@@ -20,8 +20,8 @@ namespace Upload
             string bucketName = "vaccinebucket1";
             string endpointURL = "https://s3.amazonaws.com";
             // Replace with the URL of your S3 endpoint
-            string accessKeyId = "";
-            string secretAccessKey = "";
+            string accessKeyId = "A";
+            string secretAccessKey = "6";
 
             try
             {
